@@ -44,3 +44,21 @@ Expected Output :<br/>
 [7, 9, 0, -2]<br/>
 []<br/>
 [Link to program](/firstElementInArray.js)
+
+## Last n elements in array
+Write a JavaScript function to get the last element of an array. Passing a parameter 'n' will return the last 'n' elements of the array. <br/>
+Test Data :<br/>
+console.log(last([7, 9, 0, -2]));<br/>
+console.log(last([7, 9, 0, -2],3));<br/>
+console.log(last([7, 9, 0, -2],6));<br/>
+Expected Output :<br/>
+-2<br/>
+[9, 0, -2]<br/>
+[7, 9, 0, -2]<br/>
+[Link to program](/lastNElementsInArray.js)
+
+## Sort elements in array
+Write a JavaScript program to sort the items of an array.<br/>
+Sample array : var arr1 = [ 3, 8, 7, 6, 5, -4, 3, 2, 1 ];<br/>
+Sample Output : -4,-3,1,2,3,5,6,7,8<br/>
+[Link to program](/sortElementsInArray.js)

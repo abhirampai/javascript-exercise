@@ -1,3 +1,5 @@
+//Program to find first N elemets in array
+
 function first (arr, index) {
     if((index === null) || (index === undefined))
         return arr[0];
