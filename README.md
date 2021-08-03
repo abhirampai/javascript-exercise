@@ -119,3 +119,10 @@ arr = [2, 5, 9, 6];<br/>
 console.log(contains(arr, 5));<br/>
 [True]<br/>
 [Link to program](/findInArray.js)
+
+## Find Union of arrays
+Write a JavaScript program to compute the union of two arrays.<br/>
+Sample Data :<br/>
+console.log(union([1, 2, 3], [100, 2, 1, 10]));<br/>
+[1, 2, 3, 10, 100]<br/>
+[Link to program](/unionOfArrays.js)
