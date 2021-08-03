@@ -104,5 +104,5 @@ Write a JavaScript program to display the colors in the following way :<br/>
 "1st choice is Blue ."<br/>
 "2nd choice is Green."<br/>
 "3rd choice is Red."<br/>
-- - - - - - - - - - - - - <br/>
+------------- <br/>
 [Link to program](/ordinalDisplayOfColors.js)
