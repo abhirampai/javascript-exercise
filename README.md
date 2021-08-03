@@ -95,3 +95,14 @@ Write a JavaScript program to find the sum of squares of a numeric vector.<br/>
 ## Print Sum and Product of integers in an array
 Write a JavaScript program to compute the sum and product of an array of integers.<br/>
 [Link to program](/sumAndProduct.js)
+
+## Printing in the given format
+We have the following arrays : <br/>
+color = ["Blue ", "Green", "Red", "Orange", "Violet", "Indigo", "Yellow "];<br/>
+o = ["th","st","nd","rd"]<br/>
+Write a JavaScript program to display the colors in the following way :<br/>
+"1st choice is Blue ."<br/>
+"2nd choice is Green."<br/>
+"3rd choice is Red."<br/>
+- - - - - - - - - - - - - <br/>
+[Link to program](/ordinalDisplayOfColors.js)
