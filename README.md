@@ -143,11 +143,11 @@ Sample Output :<br/>
   author: "Suzanne Collins",<br/>
   libraryID: 3245,<br/>
   title:"Mockingjay:The Final Book of The Hunger Games"<br/>
-}, [object Object] {<br/>
+}, {<br/>
   author: "Bill Gates",<br/>
   libraryID: 1254,<br/>
   title: "The Road Ahead"<br/>
-}, [object Object] {<br/>
+}, {<br/>
   author: "Steve Jobs",<br/>
   libraryID: 4264,<br/>
   title: "Walter Isaacson"<br/>
