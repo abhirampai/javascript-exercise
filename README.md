@@ -126,3 +126,30 @@ Sample Data :<br/>
 console.log(union([1, 2, 3], [100, 2, 1, 10]));<br/>
 [1, 2, 3, 10, 100]<br/>
 [Link to program](/unionOfArrays.js)
+
+## Sorting objects with specific key
+Write a JavaScript function to sort the following array of objects by title value. <br/>
+Sample object :<br/>
+
+var library = [ <br/>
+   { author: 'Bill Gates', title: 'The Road Ahead', libraryID: 1254},<br/>
+   { author: 'Steve Jobs', title: 'Walter Isaacson', libraryID: 4264},<br/>
+   { author: 'Suzanne Collins', title: 'Mockingjay: The Final Book of The Hunger Games', libraryID: 3245}<br/>
+   ];<br/>
+
+Sample Output :<br/>
+
+[{<br/>
+  author: "Suzanne Collins",<br/>
+  libraryID: 3245,<br/>
+  title:"Mockingjay:The Final Book of The Hunger Games"<br/>
+}, [object Object] {<br/>
+  author: "Bill Gates",<br/>
+  libraryID: 1254,<br/>
+  title: "The Road Ahead"<br/>
+}, [object Object] {<br/>
+  author: "Steve Jobs",<br/>
+  libraryID: 4264,<br/>
+  title: "Walter Isaacson"<br/>
+}] <br/>
+[Link to Program](/sortUsingKey.js)
