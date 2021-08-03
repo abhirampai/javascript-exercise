@@ -72,3 +72,18 @@ Sample Output : a ( 5 times ) <br/>
 ## Swap Case 
 Write a JavaScript program which accept a string as input and swap the case of each character. For example if you input 'The Quick Brown Fox' the output should be 'tHE qUICK bROWN fOX'.<br/>
 [Link to program](/swapCase.js)
+
+## Print Row wise data from array
+Write a JavaScript program which prints the elements of the following array. <br/>
+Note : Use nested for loops.<br/>
+Sample array : var a = [[1, 2, 1, 24], [8, 11, 9, 4], [7, 0, 7, 27], [7, 4, 28, 14], [3, 10, 26, 7]];<br/>
+Sample Output :<br/>
+"row 0"<br/>
+" 1"<br/>
+" 2"<br/>
+" 1"<br/>
+" 24"<br/>
+"row 1"<br/>
+------<br/>
+------<br/>
+[Link to program](/printPatternOfArray.js)
