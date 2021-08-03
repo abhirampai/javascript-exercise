@@ -1,1 +1,1 @@
-# javascript-exercise-
+# javascript-exercise
