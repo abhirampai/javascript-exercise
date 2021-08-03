@@ -154,7 +154,7 @@ Sample Output :<br/>
 }] <br/>
 [Link to program](/sortUsingKey.js)
 
-## Program to list keys in object
+## Program to list key in object
 Write a JavaScript program to list the properties of a JavaScript object. <br/>
 Sample object:<br/>
 var student = {<br/>
@@ -163,3 +163,21 @@ sclass : "VI",<br/>
 rollno : 12 };<br/>
 Sample Output: name,sclass,rollno<br/>
 [Link to program](/listKeys.js)
+
+## Program to delete key in object 
+Write a JavaScript program to delete the rollno property from the following object. Also print the object before or after deleting the property. <br/>
+Sample object:<br/>
+var student = {<br/>
+name : "David Rayy",<br/>
+sclass : "VI",<br/>
+rollno : 12 };<br/>
+[Link to program](/deleteProperty.js)
+
+## Program to get length of object
+Write a JavaScript program to get the length of a JavaScript object. <br/>
+Sample object :<br/>
+var student = {<br/>
+name : "David Rayy",<br/>
+sclass : "VI",<br/>
+rollno : 12 };<br/>
+[Link to program](/getLengthOfObject.js)
