@@ -152,4 +152,14 @@ Sample Output :<br/>
   libraryID: 4264,<br/>
   title: "Walter Isaacson"<br/>
 }] <br/>
-[Link to Program](/sortUsingKey.js)
+[Link to program](/sortUsingKey.js)
+
+## Program to list keys in object
+Write a JavaScript program to list the properties of a JavaScript object. <br/>
+Sample object:<br/>
+var student = {<br/>
+name : "David Rayy",<br/>
+sclass : "VI",<br/>
+rollno : 12 };<br/>
+Sample Output: name,sclass,rollno<br/>
+[Link to program](/listKeys.js)
