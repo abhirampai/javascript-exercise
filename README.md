@@ -181,3 +181,7 @@ name : "David Rayy",<br/>
 sclass : "VI",<br/>
 rollno : 12 };<br/>
 [Link to program](/getLengthOfObject.js)
+
+## Compare keys of 2 objects
+Write a JavaScript program to compare two objects to determine if the first one contains equivalent property values to the second one.
+[Link to program](/compareKeys.js)
