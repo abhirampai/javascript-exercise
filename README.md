@@ -110,3 +110,12 @@ Write a JavaScript program to display the colors in the following way :<br/>
 ## Remove duplicates from array
 Write a JavaScript program to remove duplicate items from an array<br/>
 [Link to program](/removeDuplicatesFromArray.js)
+
+## Find Element In Array
+Write a JavaScript function to find an array contains a specific element.
+<br/>
+Test data :<br/>
+arr = [2, 5, 9, 6];<br/>
+console.log(contains(arr, 5));<br/>
+[True]<br/>
+[Link to program](/findInArray.js)
