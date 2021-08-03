@@ -1,4 +1,5 @@
 // Program to print date in format MM/DD/YYYY or DD/MM/YYYY
+
 let date = new Date()
 let day = date.getDate()
 let month =  date.getMonth() + 1 
