@@ -87,3 +87,11 @@ Sample Output :<br/>
 ------<br/>
 ------<br/>
 [Link to program](/printPatternOfArray.js)
+
+## Print Sum Of Squares of numeric vector
+Write a JavaScript program to find the sum of squares of a numeric vector.<br/>
+[Link to program](/sumOfSquares.js)
+
+## Print Sum and Product of integers in an array
+Write a JavaScript program to compute the sum and product of an array of integers.<br/>
+[Link to program](/sumAndProduct.js)
