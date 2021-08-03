@@ -62,3 +62,13 @@ Write a JavaScript program to sort the items of an array.<br/>
 Sample array : var arr1 = [ 3, 8, 7, 6, 5, -4, 3, 2, 1 ];<br/>
 Sample Output : -4,-3,1,2,3,5,6,7,8<br/>
 [Link to program](/sortElementsInArray.js)
+
+## Find Most Frequently Occuring Item in an array
+Write a JavaScript program to find the most frequent item of an array. <br/>
+Sample array : var arr1=[3, 'a', 'a', 'a', 2, 3, 'a', 3, 'a', 2, 4, 9, 3]; <br/>
+Sample Output : a ( 5 times ) <br/>
+[Link to program](/mostFrequentInAnArray.js)
+
+## Swap Case 
+Write a JavaScript program which accept a string as input and swap the case of each character. For example if you input 'The Quick Brown Fox' the output should be 'tHE qUICK bROWN fOX'.<br/>
+[Link to program](/swapCase.js)
