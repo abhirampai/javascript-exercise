@@ -106,3 +106,7 @@ Write a JavaScript program to display the colors in the following way :<br/>
 "3rd choice is Red."<br/>
 ------------- <br/>
 [Link to program](/ordinalDisplayOfColors.js)
+
+## Remove duplicates from array
+Write a JavaScript program to remove duplicate items from an array<br/>
+[Link to program](/removeDuplicatesFromArray.js)
