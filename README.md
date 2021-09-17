@@ -228,7 +228,12 @@ Enter number 2
 Output : 2nd
 [Link to program](/numberToOrdinality.js)
 
-## Decipher Message 
+## Decipher Message
 
 Given Key and a message decode the message.
 [Link to program](/decipherMessage.js)
+
+## Show Duplicates in an array
+
+Write a program to show duplicate numbers in an array
+[Link to program](/showDuplicatesInArray.js)
