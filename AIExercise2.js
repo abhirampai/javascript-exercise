@@ -1,7 +1,4 @@
-const messageArray = [
-  "hey there can you remind me to buy groceries tomorrow",
-  "hi, remind to take the medicine everyday",
-];
+const messageArray = ['do one thing remind me about the assignment tomorrow', 'reminder game night today', 'remind me about the weekly show and tell on monday']
 
 const extractMessage = (message) => {
   const remind = ["remind", "reminders", "remainder"];
@@ -62,8 +59,10 @@ messageArray.forEach((message) => {
           addToMap(acc, (day + 1) % 7);
           break;
       }
-    } else acc += " " + currentValue;
+    } else if (days.includes(currentValue.toLowerCase()))
+      addToMap(acc, days.indexOf(currentValue));
+    else acc += " " + currentValue;
     return acc;
   });
 });
-console.log(map);
+console.log(JSON.stringify([...map]));
