@@ -237,3 +237,13 @@ Given Key and a message decode the message.
 
 Write a program to show duplicate numbers in an array
 [Link to program](/showDuplicatesInArray.js)
+
+## Mask Credit Card
+
+Write a program to mask credit card number
+[Link to program](/maskCreditCard.js)
+
+## Cars in a region
+
+Write a program to list cars in a region
+[Link to program](/carsInARegion.js)
