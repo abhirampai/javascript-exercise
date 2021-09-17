@@ -1,3 +1,5 @@
+//Program to show duplicate numbers in array
+
 const array = [1, 2, 3, 1, 2, 3, 1, 1, 4, 6, 5, 4, 6];
 
 const filterArray = (array) => {

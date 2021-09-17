@@ -1,3 +1,4 @@
+//AI excerise 1
 const messageArray = [
   "Remind me when I get home to check the mail",
   "I will call you back bye Hey remind me to call John back",

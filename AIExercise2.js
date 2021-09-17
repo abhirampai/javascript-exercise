@@ -1,4 +1,9 @@
-const messageArray = ['do one thing remind me about the assignment tomorrow', 'reminder game night today', 'remind me about the weekly show and tell on monday']
+//AI exercise 2
+const messageArray = [
+  "do one thing remind me about the assignment tomorrow",
+  "reminder game night today",
+  "remind me about the weekly show and tell on monday",
+];
 
 const extractMessage = (message) => {
   const remind = ["remind", "reminders", "remainder"];

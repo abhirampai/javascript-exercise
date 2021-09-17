@@ -1,3 +1,5 @@
+//Make entered numbers to ordinal output
+
 const makeOrdinal = (number) => {
   const ordinality = ["th", "st", "nd", "rd"];
   const index = number % 100;
