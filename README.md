@@ -217,3 +217,13 @@ Create a reminder program, which prints a list of reminder text from the message
 
 Create a reminder program, which adds the given reminder to the specific day the user wants, based on the message passed.
 [Link to program](/AIExercise2.js)
+
+## Number to Ordinal
+
+Write a program which accepts a number and then gets its ordinality.
+Eg: -
+Enter number 1
+Output : 1st
+Enter number 2
+Output : 2nd
+[Link to program](/numberToOrdinality)
