@@ -226,4 +226,9 @@ Enter number 1
 Output : 1st
 Enter number 2
 Output : 2nd
-[Link to program](/numberToOrdinality)
+[Link to program](/numberToOrdinality.js)
+
+## Decipher Message 
+
+Given Key and a message decode the message.
+[Link to program](/decipherMessage.js)
