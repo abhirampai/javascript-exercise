@@ -247,3 +247,7 @@ Write a program to mask credit card number
 
 Write a program to list cars in a region
 [Link to program](/carsInARegion.js)
+
+## Unscramble
+
+[Link to program](/unscramble.js)
