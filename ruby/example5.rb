@@ -1,0 +1,1 @@
+(35..45).each {|number| puts number}
